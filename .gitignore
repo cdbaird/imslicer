@@ -1,4 +1,4 @@
 *.pyc
 *.pdf
 */__py_cache__/*
-./examples/*
+examples/*
